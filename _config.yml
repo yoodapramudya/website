@@ -24,6 +24,6 @@ defaults:
   values:
     layout: page
 permalink: pretty
-url: "http://example.com" # the hostname & protocol for site
+url: http://example.com
 plugins:
-   - jekyll-sitemap
+- jekyll-sitemap
