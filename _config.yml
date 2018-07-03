@@ -27,3 +27,4 @@ permalink: pretty
 url: http://example.com
 plugins:
 - jekyll-sitemap
+theme : theme: alembic-jekyll-theme
